@@ -1,0 +1,85 @@
+ .mainFIlASDF{
+    position: sticky;
+    top: 10%;
+    width: 100%;
+}
+
+.mainFIlASDF>div{
+  
+ display: grid;
+ grid-template-columns: repeat(1,1fr);
+ width: 100%;
+ padding-left: 5px;
+
+
+}
+
+
+.mainFIlASDF *{
+ cursor: default;
+}
+
+.filterMainFIlASDF{
+ padding-bottom: 15px;
+ 
+}
+
+.filterMainFIlASDF p{
+ font-size: 14px;
+ max-width: auto;
+ margin: 10px 3px;
+}
+
+.mainFIlASDF>div:first-child>p{
+ font-size: 12px;
+ color: gray;
+ margin: 12px 5px 12px 0px; 
+}
+
+.mainFIlASDF>div:first-child{
+  display: flex;
+  justify-content: space-between;
+}
+
+.filterMainFIlASDF p:hover{
+ background-color: rgba(204, 204, 204, 0.267);
+
+}
+
+.filterMainFIlASDF ul{
+display: grid;
+font-size: 14px;
+grid-template-columns: repeat(1,1fr);
+gap: 10px;
+color: grey;
+padding-left: 30px;
+}
+
+.setRadioFIlASDF{
+
+font-size: 14px;
+width: 90%;
+margin:14px auto;
+color: grey;
+display: grid;
+grid-template-columns: repeat(1,1fr);
+gap: 10px;
+}
+.setRadioFIlASDF>div{
+  display: flex;
+  gap: 5px;
+}
+.includeFiltersFIlASDF{
+ color:#42a2a2 !important;
+
+}
+
+
+.DisplayHiddenFIlASDF{
+ display: none;
+}
+input[type=radio] {
+ accent-color: #42a2a2;
+ 
+}
+

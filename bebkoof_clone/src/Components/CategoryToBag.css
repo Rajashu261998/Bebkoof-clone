@@ -1,0 +1,19 @@
+.catbag{
+    padding-top: 20px;
+}
+.catbag h1{
+    text-align: center;
+   padding: 20px;
+    font-size: 20px;
+    color: brown;
+    font-weight: bold;
+}
+.boy-girl{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    justify-content: space-between;
+}
+
+.boy-girl img{
+    width: 100%;
+}

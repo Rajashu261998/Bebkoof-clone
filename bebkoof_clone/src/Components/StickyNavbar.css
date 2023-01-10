@@ -1,0 +1,30 @@
+
+
+
+
+
+
+.firstpart{
+  display: none;
+   
+
+}
+
+@media (min-width: 300px) and (max-width: 999px){
+
+} 
+
+ @media (min-width: 300px) and (max-width: 999px){
+
+
+    .container{
+        width: 100%;
+        background-color:#FDD835 ;
+        font-size: 25px;
+        display:none;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        padding: 5px;
+        align-items: center;
+    }
+} 

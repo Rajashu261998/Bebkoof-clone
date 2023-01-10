@@ -1,0 +1,35 @@
+.stupid{
+    width: 100%;
+    margin: 20px;
+
+}
+.stutext{
+    font-size: 20px;
+    font-weight:bold;
+    text-align: center;
+    margin: 20px;
+}
+.collImg{
+   display: grid;
+   grid-template-columns: repeat(2,1fr);
+   justify-content: space-evenly;
+   margin-left: 10px;
+   
+
+}
+.collImg img{
+
+    padding: 2px;
+    width: 98%;
+   
+
+}
+.banImg{
+    width: 100%;
+
+}
+.banImg img{
+    width: 99%;
+    margin-left: 10px;
+
+}
