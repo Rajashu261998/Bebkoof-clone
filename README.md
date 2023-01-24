@@ -1,5 +1,5 @@
 # Bewakoof.com-Clone
-## [Deployed URL](https://helpful-boba-72cf74.netlify.app/)
+## [Deployed URL](https://fluffy-axolotl-f888d0.netlify.app/)
 ## Fashion Store
 
 -Ecommerce Website
