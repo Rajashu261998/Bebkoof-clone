@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+# Bewakoof.com-Clone
+## [Deployed URL](https://helpful-boba-72cf74.netlify.app/)
+## Fashion Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+-Ecommerce Website
+Bewakoof is  Casual Wear and Lifestyle Brand and E-commerce platform. 
+The Bewkoof was founded as the Trendy and witty T-Shirt Brand by two IIT Bombay Ex-students. In 2012, Bewkoof launched as an E-commerce platform for the youth and its portfolio includes trendy fashion apparel for men and women.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Technologies used
 
-### `npm start`
+<hr>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React
+- Redux
+- React-Bootstrap
+- Html
+- CSS
+- Javascript
+- Chakraui
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installing and Running
 
-### `npm test`
+<hr>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To run this application on your local system
 
-### `npm run build`
+- Clone the Repository
+- Authorise
+- Use the application
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- There is login and logout functionality.
+- Elegant navbar for easy navigation between pages and categories.
+- Product Pages where all the products are displayed using Api.
+- Single Product Page on clicking Each Product carrying description of that product.
+- Cart with Crud Operations.
+- Payment Pages.
+- Footer for navigating to different social Media Pages.
 
-### `npm run eject`
+## Steps to navigate the website:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<hr>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- On opening the application the user is taken to the landing Page which have a Navbar to navigate to different Section of the application.
+- On the Landing Page Navbar, user can click on Website Logo in Navbar to navigate to categories where all the categories of the products available are displayed.
+- There are three categories available Mens/Womens/Mobile.
+- Product Pages containing all the Products available with options of sort and filter according to users requirements.
+- Single Product Page to view the description of each and every Product.
+- Cart Page with of add/delete the product.
+- Payment Pages with form validation.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Home Page and Footer
 
-## Learn More
+  ![image](https://user-images.githubusercontent.com/61157473/208609356-61e1bafe-d490-4df8-bce0-07c0a2fca050.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  <img width="1000" alt="Footer" src="https://user-images.githubusercontent.com/97459069/200316035-a51c3fb1-2bfc-49f9-a0ad-cbf47ed5cfde.PNG">
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Categories
 
-### Code Splitting
+![image](https://user-images.githubusercontent.com/61157473/208609670-4a81b568-4639-4d90-bc83-71ad980e4c25.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![image](https://user-images.githubusercontent.com/61157473/208609810-594275fb-7184-40a7-99ac-a08d2f011a4e.png)
+![image](https://user-images.githubusercontent.com/61157473/208610610-9aa82556-ee73-4a85-b88b-706be57c6895.png)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Products Section
 
-### Making a Progressive Web App
+![image](https://user-images.githubusercontent.com/61157473/208610772-2a65fc95-7ca5-4fcb-abd4-a1210f816fb2.png)
+![image](https://user-images.githubusercontent.com/61157473/208610834-ab9e123d-adbf-4d16-929e-b5ba17aac40b.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+### Login Page/Signup Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## <img width="1000" alt="login" src="https://user-images.githubusercontent.com/97459069/200316050-6c3c3fc3-f93d-4e3d-9c15-18ed51ddd7bc.PNG">
 
-### Deployment
+---
+### Cart Section
+![image](https://user-images.githubusercontent.com/61157473/208611294-ca410a02-6722-4ff7-9014-f99371be2969.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+---
+### Payment Section
+![image](https://user-images.githubusercontent.com/61157473/208611444-fc70a6e3-1292-4bf9-84de-a7fbf018992a.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
